@@ -29,10 +29,13 @@ MIT
 @angular/core
 MIT
 
-@angular/platform-browser
+@angular/forms
 MIT
 
-@angular/router
+@angular/http
+MIT
+
+@angular/platform-browser
 MIT
 
 bootstrap
